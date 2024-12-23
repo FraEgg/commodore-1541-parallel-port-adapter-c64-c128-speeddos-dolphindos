@@ -1,0 +1,4 @@
+null	Sourced	Placed	References	Value	Footprint	Datasheet	Description	Quantity
+1			SW1	JTP-1130	JTP-1130	https://www.aliexpress.com/item/1005005810426286.html	6X6x5mm 4PIN dip TACT push button switch Micro key power tactile switches 6x6x5 6*6*5MM	1
+2			J3, J4	2X05WV	2X05WV	https://www.aliexpress.com/item/1005007307830993.html	Pin 2.54mm IDC Socket Header Male Socket	2
+3			J1	C64-USERPORT	USERPORT	https://www.aliexpress.com/item/1005005951317282.html	LOT 805 Series 24 Pin Game Card Socket Edge Connector 3.96MM Pitch Female JAMMA Connector for Arcade Game Machine	1
