@@ -20,7 +20,6 @@ This is the adapter for the user port of the C64 or C128. The adapter features a
 
 3. PCBWay Shared Project
    
-   
 
 ## Bill of Materials (BOM)
 
