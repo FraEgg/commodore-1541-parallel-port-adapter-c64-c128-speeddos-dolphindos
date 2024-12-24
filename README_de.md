@@ -18,13 +18,13 @@ Dieses Repository beinhaltet die Gerber- und BOM-Dateien.
 
 ## Inhalte
 
-1. Bilder für die Installation > [hier...](https://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/tree/master/images) <
+1. Installations Bilder. > [here...](https://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/tree/master/images) <
 
-2. C64/C128 Userport-Adapter (Duo) > [hier...](https://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/tree/master/C64_UserP_Parallel_Adapter_2Bus) <
+2. C64/C128 User Port Adapter (Duo). > [here...](https://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/tree/master/C64_UserP_Parallel_Adapter_2Bus) <    > [PCBWay shared Project](https://www.pcbway.com/project/shareproject/C64_Userport_Adapter_Parallel_Cable_Set_for_the_Commodore_1541_Disk_Drive_Spe_3b86d1f8.html) <
 
-3. 1541 Parallelkabel-Adapter für VIA 6522 (Slim), geeignet für die Modelle 1541-I und 1541-II mit Anschluss für den 8x Switchless Multi-Speeder. > [hier...](https://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/tree/master/1541_Paralleladapter_VIA_6522_Low) <
+3. 1541 Parallel-Adapter für VIA 6522 (Slim), für die Modelle 1541-I und 1541-II, mit Connector für den 8x Switchless Multi-Speeder. > [here...](https://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/tree/master/1541_Paralleladapter_VIA_6522_Low) <    > [PCBWay shared Project](https://www.pcbway.com/project/shareproject/1541_I_1541_II_Parallel_Adapter_Duo_Slim_Parallel_Cable_Set_for_the_Commodor_57072954.html) <
 
-4. 1541 Parallelkabel-Adapter für VIA 6522, geeignet für die Modelle 1541-I und 1541C. > [hier...](https://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/tree/master/1541_Paralleladapter_VIA_6522(1541-1541C)) <
+4. 1541 Parallel-Adapter für VIA 6522, für die Modelle 1541-I und 1541C. > [here...](https://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/tree/master/1541_Paralleladapter_VIA_6522(1541-1541C)) <    > [PCBWay shared Project](https://www.pcbway.com/project/shareproject/1541_I_1541C_Parallel_Adapter_Parallel_Cable_Set_for_the_Commodore_1541_Disk_D_a27176a6.html) <
 
 ## Haftungsausschluss
 

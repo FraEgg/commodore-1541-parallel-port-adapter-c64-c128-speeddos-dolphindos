@@ -18,9 +18,9 @@ This is the adapter for the user port of the C64 or C128. The adapter features a
 
 2. [Bill of Materials (BOM)](https://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/raw/refs/heads/master/C64_UserP_Parallel_Adapter_2Bus/BOM_User_Port_Parallel-Adapter.xls)
 
-3. PCBWay Shared Project
+3. [PCBWay Shared Project](https://www.pcbway.com/project/shareproject/C64_Userport_Adapter_Parallel_Cable_Set_for_the_Commodore_1541_Disk_Drive_Spe_3b86d1f8.html)
    
-
+   
 
 ## Bill of Materials (BOM)
 

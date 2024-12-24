@@ -22,11 +22,11 @@ This repository includes the Gerber and BOM files.
 
 1. Installation images. > [here...](https://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/tree/master/images) <
 
-2. C64/C128 User Port Adapter (Duo). > [here...](https://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/tree/master/C64_UserP_Parallel_Adapter_2Bus) <
+2. C64/C128 User Port Adapter (Duo). > [here...](https://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/tree/master/C64_UserP_Parallel_Adapter_2Bus) <    > [PCBWay shared Project](https://www.pcbway.com/project/shareproject/C64_Userport_Adapter_Parallel_Cable_Set_for_the_Commodore_1541_Disk_Drive_Spe_3b86d1f8.html) <
 
-3. 1541 Parallel Cable Adapter for VIA 6522 (Slim), suitable for models 1541-I and 1541-II, with a connector for the 8x switchless multi-speeder. > [here...](https://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/tree/master/1541_Paralleladapter_VIA_6522_Low) <
+3. 1541 Parallel Cable Adapter for VIA 6522 (Slim), suitable for models 1541-I and 1541-II, with a connector for the 8x switchless multi-speeder. > [here...](https://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/tree/master/1541_Paralleladapter_VIA_6522_Low) <    > [PCBWay shared Project](https://www.pcbway.com/project/shareproject/1541_I_1541_II_Parallel_Adapter_Duo_Slim_Parallel_Cable_Set_for_the_Commodor_57072954.html) <
 
-4. 1541 Parallel Cable Adapter for VIA 6522, suitable for models 1541-I and 1541C. > [here...](https://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/tree/master/1541_Paralleladapter_VIA_6522(1541-1541C)) <
+4. 1541 Parallel Cable Adapter for VIA 6522, suitable for models 1541-I and 1541C. > [here...](https://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/tree/master/1541_Paralleladapter_VIA_6522(1541-1541C)) <    > [PCBWay shared Project](https://www.pcbway.com/project/shareproject/1541_I_1541C_Parallel_Adapter_Parallel_Cable_Set_for_the_Commodore_1541_Disk_D_a27176a6.html) <
 
 ## Disclaimer
 

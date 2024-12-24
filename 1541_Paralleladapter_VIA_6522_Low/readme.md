@@ -22,7 +22,7 @@ Paralleladapter installed on a 1541-II floppy drive.
 
 2. [Bill of Materials (BOM)](https://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/raw/refs/heads/master/1541_Paralleladapter_VIA_6522_Low/BOM_1541_Paralleladapter_VIA_6522_(Duo).xls)
 
-3. PCBWay Shared Project
+3. [PCBWay Shared Project](https://www.pcbway.com/project/shareproject/1541_I_1541_II_Parallel_Adapter_Duo_Slim_Parallel_Cable_Set_for_the_Commodor_57072954.html)
    
    
 

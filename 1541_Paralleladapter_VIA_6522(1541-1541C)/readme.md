@@ -18,7 +18,7 @@ This is the parallel cable adapter for the VIA 6522 in the 1541-I or 1541C disk 
 
 2. [Bill of Materials (BOM)](https://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/raw/refs/heads/master/1541_Paralleladapter_VIA_6522(1541-1541C)/BOM_1541_Paralleladapter_VIA_6522.xls)
 
-3. PCBWay Shared Project
+3. [PCBWay Shared Project](https://www.pcbway.com/project/shareproject/1541_I_1541C_Parallel_Adapter_Parallel_Cable_Set_for_the_Commodore_1541_Disk_D_a27176a6.html)
    
    
 
