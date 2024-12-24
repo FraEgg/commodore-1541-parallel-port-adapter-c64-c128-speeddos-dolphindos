@@ -14,12 +14,13 @@ This is the adapter for the user port of the C64 or C128. The adapter features a
 
 ## Downloads
 
-1. [Gerber PCB Files](htps://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/raw/refs/heads/master/C64_UserP_Parallel_Adapter_2Bus/UP-PAR-Adaptor.kicad_pcb.zip)
+1. [Gerber PCB Files](https://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/raw/refs/heads/master/C64_UserP_Parallel_Adapter_2Bus/UP-PAR-Adaptor.kicad_pcb.zip)
 
 2. [Bill of Materials (BOM)](https://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/raw/refs/heads/master/C64_UserP_Parallel_Adapter_2Bus/BOM_User_Port_Parallel-Adapter.xls)
 
 3. PCBWay Shared Project
    
+
 
 ## Bill of Materials (BOM)
 
