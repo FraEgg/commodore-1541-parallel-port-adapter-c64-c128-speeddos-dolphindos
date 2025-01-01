@@ -43,6 +43,10 @@ Ich wünsche euch viel Freude mit meinem 8x Multi-Floppy-Speeder 32KB RAM Expans
 Viele Grüße  
 Frank Eggen
 
+E-Mail: [retro@emden.net](mailto:retro@emden.net)
+
+
+
 ## Updates
 
 - 2024-12-23 Erste Version

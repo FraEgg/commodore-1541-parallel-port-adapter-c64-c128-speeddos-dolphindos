@@ -45,6 +45,10 @@ I hope you enjoy my 8x Multi-Floppy-Speeder 32KB RAM Expansion for the C128D CR.
 Best regards,  
 Frank Eggen  
 
+E-Mail: [retro@emden.net](mailto:retro@emden.net)
+
+
+
 ## Updates
 
 - 2024-12-23 First version
