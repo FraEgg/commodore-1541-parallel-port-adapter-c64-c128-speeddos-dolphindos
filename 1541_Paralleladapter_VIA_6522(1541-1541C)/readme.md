@@ -1,3 +1,5 @@
+<img title="The Multi-Speeder Logo" src="https://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/blob/master/images/Multi-Speeder_Logo.png?raw=true" alt="Multi-Speeder Logo" style="zoom:25%;" data-align="center">
+
 # Parallelport-Adapter for the Commodore 1541-I and 1541C Disk Drive (SpeedDOS, DolphinDOS) with the C64/C128
 
 <img title="1541-I and 1541C VIA 6522 Parallelport-Adapter" src="https://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/blob/master/images/1541_Paralleladapter_VIA%206522_(1541C)_top_render.png?raw=true" alt="1541-I and 1541C VIA 6522 Parallelport-Adapter" data-align="center" style="zoom:80%;">

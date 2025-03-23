@@ -1,3 +1,5 @@
+<img title="The Multi-Speeder Logo" src="https://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/blob/master/images/Multi-Speeder_Logo.png?raw=true" alt="Multi-Speeder Logo" style="zoom:25%;" data-align="center">
+
 # C64/C128 Userport-Apadpter to the 1541/1571 Disk Drives
 
 <img title="C64/C128 Userport Adapter" src="https://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/blob/master/images/C64_UserP_Parallel_Adapter_2Bus_top_render.png?raw=true" alt="C64/C128 Userport Adapter" data-align="center" style="zoom:80%;">

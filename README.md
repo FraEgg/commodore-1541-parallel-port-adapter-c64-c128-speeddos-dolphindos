@@ -1,3 +1,5 @@
+<img title="The Multi-Speeder Logo" src="https://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/blob/master/images/Multi-Speeder_Logo.png?raw=true" alt="Multi-Speeder Logo" style="zoom:25%;" data-align="center">
+
 # Parallel Cable Sets for the Commodore 1541 Disk Drive (SpeedDOS, DolphinDOS) with the C64/C128
 
 Here is an German version [[German]](https://github.com/FraEgg/commodore-1541-parallel-port-adapter-c64-c128-speeddos-dolphindos/blob/master/README_de.md) !
